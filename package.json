@@ -1,0 +1,19 @@
+{
+  "name": "pokerhnads",
+  "version": "1.0.0",
+  "description": "A simple site for calculating poker hands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidane1/pokerHands.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidane1/pokerHands/issues"
+  },
+  "homepage": "https://github.com/aidane1/pokerHands#readme"
+}
